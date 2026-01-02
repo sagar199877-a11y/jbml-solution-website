@@ -1,2 +1,2 @@
-# jbml-solution-website
+# jbml-solutions-website
 A React-based sales website
